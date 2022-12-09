@@ -1,2 +1,1 @@
-须遵守的规则：
-类名大写，函数名小写
+An initial implementation of MIR
